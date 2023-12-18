@@ -1,0 +1,416 @@
+product_id,hosting,sale_date,revenue
+Product 1,Cloud,2023-11-01,53583.85
+Product 5,Cloud,2023-09-01,213436.3
+Product 5,Cloud,2023-08-01,80083.97
+Product 5,Data Center,2023-07-01,367722.25
+Product 5,Cloud,2023-01-01,58483.99
+Product 5,Data Center,2022-12-01,512291.83
+Product 2,Data Center,2021-11-01,106808.57
+Product 2,Cloud,2021-09-01,39958.91
+Product 2,Data Center,2021-12-01,230751.05
+Product 5,Data Center,2021-10-01,129712.05
+Product 2,Data Center,2021-05-01,106061.24
+Product 1,Cloud,2020-02-01,330418.76
+Product 2,Data Center,2021-04-01,65982.51
+Product 1,Cloud,2019-12-01,271426.99
+Product 5,Data Center,2020-08-01,50779.12
+Product 1,Cloud,2018-05-01,122579.27
+Product 5,Data Center,2020-03-01,35469.07
+Product 2,Data Center,2020-01-01,10597.21
+Product 5,Data Center,2019-10-01,63661.5
+Product 1,Data Center,2019-02-01,68587.62
+Product 2,Data Center,2018-12-01,4063.5
+Product 1,Data Center,2018-09-01,17847
+Product 1,Cloud,2017-02-01,14659.78
+Product 2,Cloud,2023-11-01,7033.9
+Product 5,Data Center,2021-03-01,244144.84
+Product 3,Data Center,2022-11-01,7266
+Product 1,Cloud,2023-06-01,3145821.54
+Product 1,Cloud,2022-11-01,1136883.52
+Product 2,Cloud,2022-11-01,97284.96
+Product 5,Cloud,2023-07-01,48416.19
+Product 2,Cloud,2023-02-01,98121.21
+Product 2,Data Center,2022-09-01,159151.42
+Product 1,Data Center,2022-08-01,717178.07
+Product 1,Data Center,2022-06-01,985915.79
+Product 2,Data Center,2022-06-01,110983.24
+Product 5,Data Center,2022-05-01,196277.72
+Product 1,Data Center,2021-12-01,1131968.43
+Product 1,Data Center,2021-09-01,838725.74
+Product 5,Data Center,2023-04-01,251142.95
+Product 5,Cloud,2023-03-01,105453.31
+Product 1,Data Center,2021-06-01,713310.04
+Product 2,Cloud,2022-08-01,35866.57
+Product 2,Cloud,2021-04-01,3731.45
+Product 5,Cloud,2021-03-01,71889.28
+Product 1,Data Center,2020-12-01,967317.98
+Product 5,Cloud,2021-10-01,25948.5
+Product 2,Data Center,2021-07-01,158145.6
+Product 1,Data Center,2020-09-01,468047.3
+Product 1,Data Center,2021-04-01,458761.02
+Product 5,Cloud,2020-08-01,9092.38
+Product 1,Data Center,2020-06-01,389223.18
+Product 5,Data Center,2021-01-01,186740.74
+Product 2,Data Center,2020-10-01,122627.36
+Product 2,Data Center,2020-12-01,176614.27
+Product 5,Data Center,2020-11-01,155688.5
+Product 3,Data Center,2020-12-01,21525
+Product 1,Data Center,2019-12-01,514177.98
+Product 5,Data Center,2020-05-01,80529.95
+Product 1,Data Center,2019-08-01,179926.99
+Product 1,Data Center,2019-04-01,146550.32
+Product 1,Cloud,2018-12-01,172954.99
+Product 5,Cloud,2019-05-01,2116.18
+Product 5,Cloud,2019-02-01,1684.46
+Product 1,Cloud,2018-06-01,115085.13
+Product 1,Cloud,2017-06-01,28463.31
+Product 2,Data Center,2020-07-01,65793.84
+Product 3,Data Center,2021-05-01,0
+Product 2,Data Center,2019-11-01,47263.07
+Product 3,Data Center,2021-02-01,0
+Product 2,Cloud,2020-09-01,8389.44
+Product 2,Data Center,2019-04-01,12034.5
+Product 3,Data Center,2022-12-01,12000
+Product 3,Data Center,2022-08-01,6000
+Product 1,Data Center,2023-01-01,1583929.08
+Product 5,Data Center,2022-11-01,277530.35
+Product 1,Data Center,2022-09-01,870131.2
+Product 1,Data Center,2022-07-01,771380.89
+Product 5,Cloud,2022-06-01,178300.56
+Product 1,Cloud,2022-04-01,832427.01
+Product 2,Data Center,2022-02-01,174805.43
+Product 1,Cloud,2022-01-01,671368.02
+Product 1,Cloud,2021-08-01,691800.96
+Product 1,Cloud,2021-07-01,715963.54
+Product 2,Data Center,2021-03-01,201255.43
+Product 1,Cloud,2021-02-01,523382.23
+Product 2,Data Center,2020-08-01,55742.56
+Product 1,Cloud,2020-07-01,376121.09
+Product 5,Data Center,2021-09-01,325339.27
+Product 3,Data Center,2021-07-01,29783.25
+Product 1,Cloud,2020-04-01,357339.69
+Product 1,Data Center,2020-03-01,316109.65
+Product 5,Cloud,2019-09-01,8637.11
+Product 1,Data Center,2019-06-01,155053.65
+Product 5,Data Center,2020-09-01,109733.21
+Product 1,Cloud,2018-08-01,150287.74
+Product 1,Cloud,2018-07-01,118207.81
+Product 2,Data Center,2023-07-01,190971.38
+Product 2,Cloud,2023-09-01,135052.93
+Product 5,Data Center,2019-08-01,9932.55
+Product 5,Data Center,2020-06-01,58069.85
+Product 2,Data Center,2020-03-01,70811.26
+Product 5,Cloud,2018-11-01,1023.34
+Product 3,Data Center,2020-05-01,127.06
+Product 3,Data Center,2020-08-01,7928.25
+Product 3,Data Center,2023-04-01,7500
+Product 3,Data Center,2022-07-01,6000
+Product 5,Cloud,2023-04-01,42191.48
+Product 1,Cloud,2022-12-01,1250943.9
+Product 2,Cloud,2022-09-01,53063.4
+Product 1,Cloud,2022-08-01,1047247.23
+Product 2,Cloud,2022-01-01,36727.61
+Product 1,Data Center,2022-01-01,827207.54
+Product 1,Cloud,2021-12-01,1056140
+Product 2,Cloud,2021-12-01,68394.79
+Product 1,Cloud,2021-09-01,787918.41
+Product 5,Data Center,2023-03-01,368049.66
+Product 2,Data Center,2023-01-01,320388.21
+Product 1,Data Center,2021-08-01,540587.3
+Product 1,Data Center,2021-07-01,556178.04
+Product 2,Data Center,2021-08-01,120366.07
+Product 2,Cloud,2021-05-01,27926.53
+Product 1,Data Center,2021-02-01,1612498.44
+Product 1,Cloud,2020-12-01,530300.92
+Product 5,Cloud,2021-01-01,17020.08
+Product 2,Cloud,2021-07-01,18419.77
+Product 5,Cloud,2020-11-01,7588.39
+Product 1,Cloud,2020-09-01,422215.36
+Product 1,Data Center,2020-10-01,405759.35
+Product 1,Data Center,2020-07-01,256040.31
+Product 5,Cloud,2020-06-01,6243.62
+Product 2,Cloud,2021-02-01,40076.92
+Product 2,Cloud,2020-12-01,8915.72
+Product 1,Data Center,2020-04-01,305674.49
+Product 5,Data Center,2019-05-01,33415
+Product 5,Data Center,2019-02-01,23205
+Product 5,Cloud,2019-01-01,1058.6
+Product 1,Data Center,2018-10-01,69225
+Product 2,Data Center,2023-09-01,448632.6
+Product 5,Data Center,2023-11-01,25039.58
+Product 3,Data Center,2022-04-01,7500
+Product 3,Data Center,2019-10-01,9345.19
+Product 3,Data Center,2021-12-01,4898.88
+Product 5,Data Center,2019-09-01,89525.24
+Product 3,Data Center,2022-09-01,359.62
+Product 3,Data Center,2019-03-01,4800
+Product 3,Data Center,2020-04-01,6375
+Product 1,Data Center,2023-10-01,760811.82
+Product 1,Data Center,2023-09-01,1639798.93
+Product 1,Data Center,2023-08-01,926177.77
+Product 5,Data Center,2023-06-01,336223.38
+Product 2,Cloud,2023-01-01,68409.73
+Product 5,Cloud,2022-11-01,64549.48
+Product 1,Cloud,2022-07-01,1098655.96
+Product 1,Cloud,2022-05-01,958343.12
+Product 2,Cloud,2022-05-01,64454.09
+Product 1,Cloud,2022-02-01,830258.32
+Product 1,Data Center,2022-02-01,1216315.41
+Product 2,Data Center,2023-04-01,199618.47
+Product 5,Data Center,2022-01-01,154671.28
+Product 5,Data Center,2021-12-01,250360.4
+Product 5,Data Center,2022-10-01,275715.64
+Product 1,Data Center,2021-10-01,536985.61
+Product 5,Cloud,2021-09-01,28075.42
+Product 5,Cloud,2021-08-01,17544.01
+Product 5,Cloud,2020-10-01,8856.47
+Product 5,Cloud,2020-09-01,16290.92
+Product 1,Cloud,2020-05-01,334613.94
+Product 5,Cloud,2021-06-01,53231.14
+Product 5,Data Center,2020-12-01,182583.29
+Product 1,Cloud,2019-06-01,230262.29
+Product 1,Cloud,2018-01-01,67124.93
+Product 1,Cloud,2017-10-01,44339.09
+Product 1,Cloud,2017-05-01,29530.54
+Product 1,Cloud,2017-01-01,9296.25
+Product 2,Cloud,2023-08-01,89213.43
+Product 3,Data Center,2023-10-01,31952.25
+Product 5,Data Center,2019-03-01,8906.25
+Product 5,Data Center,2018-10-01,9675
+Product 3,Data Center,2023-09-01,21375
+Product 5,Data Center,2022-06-01,194103.9
+Product 2,Data Center,2021-10-01,102552.45
+Product 2,Data Center,2019-05-01,14569.89
+Product 4,Cloud,2023-04-01,7919.87
+Product 5,Data Center,2018-09-01,6166.5
+Product 1,Cloud,2023-10-01,1897427.64
+Product 1,Cloud,2023-09-01,1698936.46
+Product 5,Cloud,2023-06-01,366984.4
+Product 1,Cloud,2023-03-01,1835052.12
+Product 5,Cloud,2023-02-01,53614.62
+Product 5,Cloud,2023-05-01,52117.59
+Product 1,Data Center,2022-03-01,1082977.1
+Product 2,Cloud,2022-03-01,82827.58
+Product 5,Cloud,2022-02-01,52880.22
+Product 2,Cloud,2023-03-01,149230.52
+Product 2,Cloud,2023-04-01,143818.85
+Product 5,Cloud,2022-01-01,19895.08
+Product 5,Data Center,2022-07-01,224186.05
+Product 5,Data Center,2022-04-01,210501
+Product 5,Data Center,2021-08-01,138781.39
+Product 5,Cloud,2020-04-01,4458.62
+Product 5,Data Center,2021-02-01,360039.05
+Product 1,Cloud,2019-07-01,217611.04
+Product 1,Data Center,2019-05-01,142259.4
+Product 5,Data Center,2020-07-01,69577.29
+Product 1,Cloud,2017-07-01,36042.18
+Product 2,Cloud,2023-10-01,119290.49
+Product 1,Data Center,2019-01-01,95147.41
+Product 1,Data Center,2018-11-01,32251.5
+Product 5,Data Center,2021-07-01,157328.56
+Product 2,Data Center,2020-11-01,97817.35
+Product 2,Data Center,2020-05-01,75934.89
+Product 4,Cloud,2023-11-01,3.6
+Product 2,Data Center,2019-01-01,3661.5
+Product 2,Data Center,2018-11-01,2317.5
+Product 3,Data Center,2022-03-01,5625
+Product 5,Data Center,2023-09-01,542112.97
+Product 5,Cloud,2022-07-01,102762.18
+Product 5,Data Center,2023-08-01,227779.84
+Product 1,Cloud,2022-03-01,1063580.93
+Product 1,Data Center,2021-11-01,627759.71
+Product 2,Cloud,2021-11-01,35511.89
+Product 5,Cloud,2022-12-01,79700.79
+Product 2,Data Center,2021-09-01,221478.4
+Product 5,Data Center,2022-02-01,329077.06
+Product 3,Data Center,2021-09-01,21000
+Product 2,Data Center,2021-06-01,92591.86
+Product 5,Cloud,2021-02-01,32039.06
+Product 1,Cloud,2019-05-01,203935.45
+Product 1,Cloud,2019-02-01,167086.54
+Product 1,Cloud,2019-01-01,158102.26
+Product 2,Data Center,2020-09-01,86454.75
+Product 1,Cloud,2018-11-01,151907.13
+Product 1,Cloud,2018-09-01,144676.08
+Product 1,Cloud,2018-04-01,70874.31
+Product 1,Cloud,2017-12-01,56840.58
+Product 1,Cloud,2017-11-01,52297.96
+Product 1,Data Center,2020-02-01,296041.4
+Product 5,Cloud,2020-03-01,2952.46
+Product 2,Data Center,2019-08-01,17887.5
+Product 5,Data Center,2019-06-01,24000.24
+Product 2,Data Center,2020-02-01,54794.42
+Product 4,Cloud,2023-06-01,513.63
+Product 3,Data Center,2021-11-01,10388.98
+Product 3,Data Center,2019-12-01,4500
+Product 3,Data Center,2022-06-01,10435.3
+Product 5,Data Center,2023-10-01,352279.52
+Product 1,Data Center,2023-06-01,1982832
+Product 1,Data Center,2023-05-01,1318071.72
+Product 2,Data Center,2023-02-01,206032.24
+Product 1,Data Center,2022-11-01,1217115.61
+Product 2,Cloud,2022-10-01,122081.79
+Product 1,Data Center,2022-10-01,900274.11
+Product 2,Data Center,2022-08-01,139429.21
+Product 1,Cloud,2022-06-01,1804665.18
+Product 2,Cloud,2022-06-01,155274.58
+Product 5,Cloud,2022-05-01,56649.84
+Product 5,Cloud,2022-04-01,48876.82
+Product 1,Cloud,2021-11-01,768895.19
+Product 2,Data Center,2022-11-01,241600.35
+Product 5,Data Center,2022-03-01,188245.01
+Product 1,Cloud,2021-06-01,987875.16
+Product 1,Cloud,2021-05-01,685276.99
+Product 1,Cloud,2021-04-01,540699.87
+Product 1,Cloud,2020-06-01,360604.46
+Product 5,Cloud,2020-05-01,8798.55
+Product 2,Data Center,2020-04-01,76435.2
+Product 2,Cloud,2021-06-01,97589.3
+Product 1,Cloud,2020-01-01,274213.29
+Product 1,Data Center,2019-11-01,342765.08
+Product 1,Cloud,2019-08-01,252645.88
+Product 1,Cloud,2019-04-01,199762.18
+Product 1,Data Center,2018-12-01,145737
+Product 1,Cloud,2017-09-01,57135.21
+Product 1,Cloud,2017-08-01,47446.39
+Product 2,Data Center,2023-06-01,260532.1
+Product 5,Cloud,2019-06-01,9245.17
+Product 2,Data Center,2019-03-01,0
+Product 2,Data Center,2023-05-01,179141.18
+Product 3,Data Center,2022-10-01,24750
+Product 2,Cloud,2020-10-01,2977.3
+Product 3,Data Center,2023-06-01,3000
+Product 3,Data Center,2023-05-01,3000
+Product 5,Cloud,2023-10-01,74434.42
+Product 5,Cloud,2023-11-01,19536.27
+Product 1,Data Center,2023-07-01,1078879.65
+Product 1,Cloud,2023-05-01,1512628.11
+Product 1,Data Center,2023-02-01,1738301.46
+Product 1,Data Center,2022-12-01,1975671.82
+Product 2,Data Center,2022-12-01,256827.92
+Product 2,Data Center,2022-10-01,246584.7
+Product 1,Cloud,2022-10-01,1273418.16
+Product 5,Cloud,2022-03-01,86202.73
+Product 2,Data Center,2022-01-01,157261.77
+Product 5,Data Center,2021-11-01,143213.61
+Product 2,Data Center,2022-07-01,147725.18
+Product 1,Data Center,2021-05-01,605800.21
+Product 2,Data Center,2021-02-01,324932.66
+Product 1,Cloud,2020-10-01,469252.07
+Product 2,Cloud,2021-08-01,21851.43
+Product 5,Cloud,2020-02-01,3286.84
+Product 5,Data Center,2021-04-01,114513.75
+Product 1,Data Center,2020-01-01,208359.05
+Product 1,Cloud,2019-11-01,251732.66
+Product 1,Cloud,2019-03-01,183712.4
+Product 5,Data Center,2019-01-01,41118.45
+Product 1,Cloud,2018-10-01,140417.87
+Product 1,Cloud,2018-02-01,67080.8
+Product 1,Cloud,2017-04-01,22140
+Product 5,Data Center,2019-12-01,96460.98
+Product 2,Cloud,2023-05-01,109194.52
+Product 2,Cloud,2023-06-01,391255.19
+Product 2,Cloud,2023-07-01,82885.17
+Product 5,Data Center,2019-07-01,30268.02
+Product 2,Data Center,2018-10-01,4476
+Product 4,Cloud,2023-05-01,-7750.39
+Product 3,Data Center,2023-07-01,8625
+Product 3,Data Center,2020-10-01,14100
+Product 1,Cloud,2023-07-01,1451955.8
+Product 1,Data Center,2023-04-01,1127056.82
+Product 1,Cloud,2023-02-01,1092937.56
+Product 1,Cloud,2023-01-01,965135.7
+Product 2,Cloud,2022-12-01,78614.61
+Product 1,Cloud,2022-09-01,1296103.85
+Product 5,Cloud,2022-08-01,51656.4
+Product 2,Cloud,2022-07-01,66348.76
+Product 1,Data Center,2022-04-01,906935.6
+Product 5,Cloud,2021-11-01,37594.83
+Product 2,Data Center,2022-04-01,177736.08
+Product 2,Cloud,2022-02-01,21146.7
+Product 5,Data Center,2021-05-01,125680.19
+Product 5,Cloud,2021-04-01,15347.23
+Product 2,Cloud,2021-03-01,42978.34
+Product 1,Cloud,2020-08-01,449046.73
+Product 5,Data Center,2020-02-01,52718.68
+Product 5,Data Center,2020-01-01,55336.79
+Product 2,Data Center,2021-01-01,89789.02
+Product 5,Cloud,2019-12-01,1842.98
+Product 5,Cloud,2019-08-01,6781.61
+Product 5,Data Center,2019-04-01,11250
+Product 1,Data Center,2019-03-01,90503.21
+Product 5,Data Center,2018-11-01,9525
+Product 1,Data Center,2019-10-01,332497.25
+Product 2,Data Center,2019-10-01,55605.32
+Product 5,Cloud,2019-07-01,1809.29
+Product 2,Data Center,2019-06-01,15252.51
+Product 5,Cloud,2018-12-01,1061.21
+Product 3,Data Center,2023-08-01,7500
+Product 4,Cloud,2023-09-01,247.46
+Product 4,Cloud,2023-07-01,190.6
+Product 1,Cloud,2023-08-01,1267419.16
+Product 1,Cloud,2023-04-01,1346029.06
+Product 5,Cloud,2022-10-01,56906.14
+Product 5,Data Center,2022-09-01,389643.4
+Product 1,Data Center,2022-05-01,1048010.81
+Product 2,Data Center,2022-05-01,188227.05
+Product 2,Cloud,2022-04-01,83287.96
+Product 5,Cloud,2021-12-01,131144.92
+Product 1,Cloud,2021-10-01,864860.14
+Product 2,Cloud,2021-10-01,14128.12
+Product 5,Data Center,2021-06-01,108405.94
+Product 5,Cloud,2021-05-01,33262.52
+Product 1,Data Center,2021-03-01,1160909.27
+Product 2,Cloud,2021-01-01,26922.06
+Product 1,Data Center,2021-01-01,1021245.01
+Product 5,Cloud,2020-12-01,6643.96
+Product 1,Data Center,2020-08-01,419667.89
+Product 1,Data Center,2020-05-01,311438.83
+Product 1,Cloud,2020-03-01,297375
+Product 1,Cloud,2019-10-01,286433.12
+Product 5,Data Center,2020-10-01,113160.71
+Product 1,Data Center,2020-11-01,451751.74
+Product 5,Cloud,2019-04-01,1203.68
+Product 5,Data Center,2018-12-01,22234.12
+Product 5,Cloud,2020-01-01,2976.07
+Product 1,Data Center,2019-09-01,354239.33
+Product 2,Data Center,2023-08-01,124234.53
+Product 5,Data Center,2019-11-01,35139.13
+Product 4,Cloud,2023-08-01,798.75
+Product 4,Cloud,2023-10-01,813.19
+Product 2,Data Center,2019-02-01,8834.25
+Product 5,Cloud,2018-10-01,2120.98
+Product 5,Cloud,2019-03-01,4947.68
+Product 5,Data Center,2022-08-01,168608.68
+Product 3,Data Center,2021-10-01,14625
+Product 3,Data Center,2020-11-01,5625
+Product 2,Data Center,2019-09-01,35029.5
+Product 3,Data Center,2021-01-01,18.3
+Product 3,Data Center,2021-03-01,3000
+Product 1,Data Center,2023-11-01,78551.45
+Product 1,Data Center,2023-03-01,1784636.72
+Product 2,Data Center,2023-03-01,286739.15
+Product 5,Data Center,2023-05-01,225654.56
+Product 5,Data Center,2023-02-01,398862.94
+Product 5,Data Center,2023-01-01,422194.33
+Product 5,Cloud,2022-09-01,130550.97
+Product 2,Data Center,2022-03-01,180857.84
+Product 5,Cloud,2021-07-01,40703.14
+Product 1,Cloud,2021-03-01,788580.94
+Product 1,Cloud,2021-01-01,448325.36
+Product 1,Cloud,2020-11-01,415034.12
+Product 5,Cloud,2020-07-01,14024.13
+Product 5,Cloud,2019-10-01,2017.76
+Product 1,Cloud,2019-09-01,298879.55
+Product 2,Cloud,2020-11-01,1356.12
+Product 2,Data Center,2020-06-01,81654.8
+Product 1,Cloud,2018-03-01,80745.31
+Product 5,Data Center,2020-04-01,83976.56
+Product 1,Cloud,2017-03-01,16395.75
+Product 5,Cloud,2019-11-01,2513.32
+Product 1,Data Center,2019-07-01,114403.12
+Product 2,Data Center,2019-07-01,15752.78
+Product 2,Data Center,2023-10-01,172713.2
+Product 2,Data Center,2023-11-01,37575
+Product 2,Data Center,2019-12-01,73374.07
+Product 3,Data Center,2021-04-01,7500
